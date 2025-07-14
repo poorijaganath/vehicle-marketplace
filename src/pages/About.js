@@ -1,19 +1,19 @@
 import React from "react";
 import "../styles/About.css";
 
-// ✅ Car images
+
 import sedan from "../assets/car-sedan.jpg";
 import compact from "../assets/car-compact.jpg";
 import suv from "../assets/car-suv.jpg";
 import coupe from "../assets/car-coupe.jpg";
 
-// ✅ Bike images
+
 import standard from "../assets/bike-standard.jpg";
 import cruiser from "../assets/bike-cruiser.jpg";
 import sport from "../assets/bike-sport.jpg";
 import touring from "../assets/bike-touring.jpg";
 
-// ✅ Lorry images
+
 import mini from "../assets/lorry-mini.jpg";
 import container from "../assets/lorry-container.jpg";
 import tanker from "../assets/lorry-tanker.jpg";
