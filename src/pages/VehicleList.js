@@ -1,21 +1,20 @@
 import React from "react";
 import "../styles/About.css";
 
-// 🚗 Cars
 import tiago from "../assets/tata-tiago.jpg";
 import alto from "../assets/maruti-alto.jpg";
 import i20 from "../assets/hyundai-i20.jpg";
 import figo from "../assets/ford-figo.jpg";
 import xuv from "../assets/mahindra-xuv.jpg";
 
-// 🏍️ Bikes
+
 import splendor from "../assets/hero-splendor.jpg";
 import r15 from "../assets/yamaha-r15.jpg";
 import pulsar from "../assets/bajaj-pulsar.jpg";
 import duke from "../assets/ktm-duke.jpg";
 import enfield from "../assets/royal-enfield.jpg";
 
-// 🚛 Lorries
+
 import ace from "../assets/tata-ace.jpg";
 import container from "../assets/ashok-container.jpg";
 import benz from "../assets/bharat-benz.jpg";
